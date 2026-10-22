@@ -1,0 +1,17 @@
+# Core analysis (Results 1-9)
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+nltk
+wordcloud
+umap-learn
+hdbscan
+
+# Sensitivity / supplementary scripts and channel figures
+openpyxl        # optional: Excel workbook of supplementary tables (cns_r10c_supplement.py)
+pillow          # extras/make_channel_figures.py (JPG export)
+
+# Optional: sentence-level embeddings (alternative to TF-IDF in cns_r2_embedding.py)
+# sentence-transformers
