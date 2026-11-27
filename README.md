@@ -120,7 +120,3 @@ If `hdbscan` fails with an error about `force_all_finite` / `ensure_all_finite`,
 If you use this code, please cite the paper:
 
 > Bellin, I., Tulner, L. K., Beyh, A., Wearn, A., & Forkel, S. J. (2026). Neuroscience in Conversation: Tracking Scientific Change Through an Open Seminar Archive. bioRxiv, 2026-10.
-
-## License
-
-[To be added]
